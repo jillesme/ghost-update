@@ -1,0 +1,19 @@
+{
+  "name": "ghost-update",
+  "version": "0.1.0",
+  "description": "Update your Ghost blogging platform with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ghost",
+    "auto",
+    "update"
+  ],
+  "author": "Jilles Soeters <info@jilles.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^2.9.0"
+  }
+}
