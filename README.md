@@ -4,6 +4,6 @@ Really just a work in progress running all commands described [here](https://www
 
 There's some todos in index.js and I need to figure out a way to start / stop Ghost.
 
-# Demo (gifv)
+# Demo
 
-![ghost-update demo](http://i.imgur.com/2jFkK15.gifv)
+![ghost-update demo](http://i.imgur.com/2jFkK15.gif)
